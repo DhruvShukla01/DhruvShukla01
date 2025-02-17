@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hindglish - real time call translation<br>🌱 I’m currently learning Next.js, AWS<br>⚡Languages I am fluent with: Python, JavaScript, C<br>📫 How to reach me: dhskukla@ucsc.edu<br>⚜️Things I like to do/ I would want to do outside computers: Playing Guitar, Chess, Gym
+🔭 I’m currently working on Hindglish - a real time voice call translator <br>🌱 I’m currently learning Next.js, AWS<br>⚡Languages I am fluent with: Python, JavaScript, C<br>📫 How to reach me: dhskukla@ucsc.edu<br>⚜️Things I like to do/ I would want to do outside computers: Playing Guitar, Chess, Gym
 
 
 # 💻 Tech Stack:
